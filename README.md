@@ -87,7 +87,7 @@ All the data will be stored in a folder "data".
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/78597231/170875847-e5acbeaa-0390-4e23-bd36-c96eaef9a0e2.png">
 
-- FACE DETECTOR
+### FACE DETECTOR
 
 After clicking on the face detector button a window will open with a button "star", after clicking on this button face Recognition will start.
 After recognition of the face attendance will be stored in a csv file "attendance.csv".
