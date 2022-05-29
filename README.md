@@ -6,7 +6,7 @@ It is a Desktop Application for:
 - Keeping a record of the attendance of a student
 - Storing the details of the student and displaying the details by recognizing the face 
 
- ### compatible platform
+ ### Compatible platforms
 - Laptops
 - Desktops
 
@@ -49,6 +49,13 @@ I have  username and password for mysql as "root" so change it accordingly in al
 );
 
 - All the instructions for mysql queries is in a file "face_recognition_database.sql"
+
+## Navigating Through The Desktop Application
+
+###HOME WINDOW
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/78597231/170875136-0f264d7a-9176-4414-9565-f8e4e0b1c90c.png">
+
+
 
 
 
