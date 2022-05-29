@@ -14,7 +14,7 @@ It is a Desktop Application for:
 - BACK-END: mysql
 - USER INTERFACE- python(tkkinter library)
 
-###ALGORITHMS USED
+### ALGORITHMS USED
 
 Two algorithms have been used:
 
@@ -69,7 +69,7 @@ Home Window has 6 buttons
 
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/78597231/170875136-0f264d7a-9176-4414-9565-f8e4e0b1c90c.png">
 
-- STUDENTS DETAILS
+### STUDENTS DETAILS
 
 After clicking on the student details button a new window will open for-
   - Displaying the details of the students.
@@ -80,7 +80,7 @@ After clicking on the student details button a new window will open for-
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/78597231/170875629-f3298f05-9dbe-4dad-9662-1f1e3ae20bab.png">
 
-- TRAIN DATA
+### TRAIN DATA
 
 After clicking on the train data button a window will open with a button "start training data", after clicking on this button training of the data will start.
 All the data will be stored in a folder "data".
@@ -94,19 +94,19 @@ After recognition of the face attendance will be stored in a csv file "attendanc
 
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/78597231/170876013-abedbad6-13d4-4858-b4eb-981cb3d19341.png">
 
-- PHOTOS
+### PHOTOS
 
 This button will open a folder "data" that has stored all the face dataset of the students that has been detected.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/78597231/170876129-3503c590-ab13-48c5-b3c4-e690d889c75b.png">
 
-- ATTENDANCE
+### ATTENDANCE
 
 This button will open a new window which shows the record of all the students that have been recognized by clicking on the "import csv" button which will redirect you to open a file. Select the file "attendance.csv" in the working directory and the details will be displayed on the screen
 
 <img width="955" alt="111" src="https://user-images.githubusercontent.com/78597231/170876394-aa35071c-dcf2-4f80-afbe-18da490c12a1.png">
 
-- EXIT 
+### EXIT 
 
 Exit the home window by clicking on thi button
 
