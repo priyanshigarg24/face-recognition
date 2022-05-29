@@ -1,38 +1,38 @@
 #                          FACE RECOGNITION ATTENDANCE SYSTEM
 
-##ABOUT THE PROJECT
+## ABOUT THE PROJECT
 It is a Desktop Application for:
--Tracking the attendance of a student using Face recognition
--Keeping a record of the attendance of a student
--Storing the details of the student and displaying the details by recognizing the face 
+- Tracking the attendance of a student using Face recognition
+- Keeping a record of the attendance of a student
+- Storing the details of the student and displaying the details by recognizing the face 
 
-###compatible platform
--Laptops
--Desktops
+ ### compatible platform
+- Laptops
+- Desktops
 
-###Built with
--BACK-END: mysql
--USER INTERFACE- python(tkkinter library)
+### Built with
+- BACK-END: mysql
+- USER INTERFACE- python(tkkinter library)
 
 
-##GETTING STARTED
+## GETTING STARTED
 To install and run the project on your local system, following are the requirements:
 
-###PIP INSTALL THE LIBRARIES:
--opencv-contrib-python==4.5.5.64
--opencv-python==4.5.5.64
--mysql-connector-python==8.0.29
--numpy==1.22.4
--Pillow==9.1.1
+### PIP INSTALL THE LIBRARIES:
+- opencv-contrib-python==4.5.5.64
+- opencv-python==4.5.5.64
+- mysql-connector-python==8.0.29
+- numpy==1.22.4
+- Pillow==9.1.1
 
-###Connecting to Back-end
--mysql should be installed on your system and make a database "face_recognition" on mysql
+### Connecting to Back-end
+- mysql should be installed on your system and make a database "face_recognition" on mysql
 (I have used MYSQL Workbench for making the database)
 I have  username and password for mysql as "root" so change it accordingly in all the python files.
 
 >create database face_recognition;
 
--create a table student
+- create a table student
 >CREATE TABLE `student` (
   `ID` int NOT NULL,
   `Name` varchar(45) DEFAULT NULL,
@@ -48,7 +48,7 @@ I have  username and password for mysql as "root" so change it accordingly in al
   PRIMARY KEY (`ID`)
 );
 
--All the instructions for mysql queries is in a file "face_recognition_database.sql"
+- All the instructions for mysql queries is in a file "face_recognition_database.sql"
 
 
 
